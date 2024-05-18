@@ -1,1 +1,2 @@
-
+Memperkenalkan Xarray
+Xarray adalah sebuah pustaka untuk mengolah data array multidimensi di Python. Banyak cara kerjanya terinspirasi dari Pandas, tapi Xarray dibuat untuk bisa menghandle data array multidimensi yang ukurannya sangat besar. Pustaka ini dirancang untuk bekerja sama dengan pustaka-pustaka Python ilmiah populer seperti NumPy dan Matplotlib. Xarray juga didesain untuk mengolah array yang ukurannya lebih besar dari memori komputer dan bisa memuat data dari file NetCDF (dan juga menyimpannya).
