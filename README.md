@@ -1,6 +1,6 @@
 # python4atmosphere
 
-Selamat datang di `python4atmosphere`, repositori Python yang didedikasikan untuk analisis data komputasi di ilmu atmosfer. Proyek ini bertujuan untuk menyediakan alat dan skrip yang memudahkan pengolahan, analisis, dan visualisasi data atmosfer. Baik Anda seorang peneliti, mahasiswa, atau hobiis yang tertarik dengan ilmu atmosfer, `python4atmosphere` dirancang untuk membantu Anda mengungkap wawasan dari data atmosfer yang kompleks menggunakan Python.
+Selamat datang di `python4atmosphere`, repositori yang didedikasikan untuk pengelanan analisis data komputasi dalam ilmu cuaca, iklim, dan atmosfer. Proyek ini bertujuan untuk menyediakan alat dan skrip yang memudahkan pengolahan, analisis, dan visualisasi data atmosfer. Baik Anda seorang peneliti, mahasiswa, atau hobiis yang tertarik dengan ilmu atmosfer, `python4atmosphere` dirancang untuk membantu Anda mengungkap wawasan dari data atmosfer yang kompleks menggunakan Python.
 
 ## Fitur
 
